@@ -202,13 +202,16 @@ flight-safety-dashboard/
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+![Dashboard](https://via.placeholder.com/800x400?text=<img width="1910" height="932" alt="image" src="https://github.com/user-attachments/assets/d3a54ec9-cd9d-4799-b5f7-a32c85aa4c53" />
+)
 
 ### Real-Time Monitoring
-![Live Monitor](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+![Live Monitor](https://via.placeholder.com/800x400?text=<img width="1540" height="579" alt="image" src="https://github.com/user-attachments/assets/7a68e259-b719-47af-85f4-ec7a2a430554" />
+)
 
 ### Data Analysis
-![Analysis](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+![Analysis](https://via.placeholder.com/800x400?text=<img width="1913" height="918" alt="image" src="https://github.com/user-attachments/assets/3e5451e7-6870-4d96-b608-e24dc60bb1b8" />
+)
 
 ---
 
